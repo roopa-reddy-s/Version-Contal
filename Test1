@@ -8,6 +8,8 @@ System.out.println();
  
  Test t1 = new Test();
  
+ t1.t1();
+ 
  }}
  
  
